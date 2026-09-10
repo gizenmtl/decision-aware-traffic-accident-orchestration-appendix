@@ -8,7 +8,7 @@ This repository provides supplementary material associated with the manuscript:
 
 The complete feature dictionary used in the final modeling framework is available here:
 
-[`Supplementary_Table_S1_Feature_Dictionary.docx`](supplementary_materials/Supplementary_Table_S1_Feature_Dictionary.docx)
+[`Supplementary_Table_S1_Feature_Dictionary.pdf`](supplementary_materials/Supplementary_Table_S1_Feature_Dictionary.pdf)
 
 Supplementary Table S1 documents the processed variables considered in the study, including their English descriptions, feature families, model-branch usage, availability within the intended prediction setting, and predictor/target/exclusion status.
 
